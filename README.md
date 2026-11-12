@@ -1,4 +1,4 @@
-# stroke-paintings
+# fable-5.2-paintings
 
 Paintings built from a blank canvas out of individual brush strokes, plus time-lapse videos of them being painted.
 
