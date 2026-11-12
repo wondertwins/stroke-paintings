@@ -4,38 +4,6 @@ Paintings built from a blank canvas out of individual brush strokes, plus time-l
 
 ![All five CEO paintings being painted at once](gifs/ceo_all_five.gif)
 
-## Paintings
-
-### CEO stepping down (five takes on shame)
-
-| | |
-|---|---|
-| ![The statement](gifs/ceo_1_podium.gif)<br>The statement, 5,417 strokes | ![The mirror](gifs/ceo_4_mirror.gif)<br>The mirror, 6,741 strokes |
-
-![After the vote](gifs/ceo_2_boardroom.gif)
-
-After the vote, 7,767 strokes
-
-![The walk out](gifs/ceo_3_walkout.gif)
-
-The walk out, 6,411 strokes
-
-![The last keynote](gifs/ceo_5_stage.gif)
-
-The last keynote, 6,473 strokes
-
-### Commuter train, 18,454 strokes
-
-![Commuter train](gifs/commute.gif)
-
-### Lighthouse at dusk, 14,133 strokes
-
-![Lighthouse at dusk](gifs/lighthouse.gif)
-
-### Photo repainted with 8,000 strokes
-
-![Photo repaint](gifs/photo_8000_strokes.gif)
-
 ## Files
 
 - `paint.py`: repaints a photo with N strokes (`python paint.py photo.jpg --strokes 8000`).
